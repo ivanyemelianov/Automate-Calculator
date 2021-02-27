@@ -1,0 +1,14 @@
+main page:
+mode = 'com.google.android.calculator:id/mode'
+input_field = 'com.google.android.calculator:id/formula'
+
+digits = 'com.google.android.calculator:id/digit_0' #(0-9)
+decimal_point = 'com.google.android.calculator:id/dec_point'
+equal = 'com.google.android.calculator:id/eq'
+delete = 'com.google.android.calculator:id/del'
+division = 'com.google.android.calculator:id/op_div'
+multiply = 'com.google.android.calculator:id/op_mul'
+subtract = 'com.google.android.calculator:id/op_sub'
+add = 'com.google.android.calculator:id/op_add'
+
+
